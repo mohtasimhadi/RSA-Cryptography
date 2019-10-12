@@ -3,7 +3,7 @@ package RSA;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class RSA {
 
     static int gcd(int a, int b) {
         int g = 0,i;
